@@ -18,8 +18,8 @@ h2 {
   color: #0e3742;
   width: 100%;
   text-align: center;
-  -webkit-box-reflect: below 1px linear-gradient(transparent, #000);
-  line-height: 0.7em;
+  /*-webkit-box-reflect: below 1px linear-gradient(transparent, #000);
+  line-height: 0.7em;*/
   outline: none;
   animation: bulb 5s linear infinite;
 }
